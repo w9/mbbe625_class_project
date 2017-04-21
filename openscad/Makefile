@@ -1,0 +1,2 @@
+main:
+	openscad ./test.scad
